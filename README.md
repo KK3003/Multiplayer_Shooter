@@ -10,10 +10,10 @@ The functionalities used in this project include:
 ___
 # Screenshots
 ___
-![screenshot](/Screenshots/virusn1.jpeg)
+![screenshot](/Screenshots/mul1.jpeg)
 ___
-![screenshot](/Screenshots/Virusn2.jpeg)
+![screenshot](/Screenshots/mul2.jpeg)
 ___
-![screenshot](/Screenshots/Virusn3.jpeg)
+![screenshot](/Screenshots/mul3.jpeg)
 ___
 
