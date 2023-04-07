@@ -12,8 +12,8 @@ ___
 ___
 ![screenshot](/Screenshots/mul1.jpeg)
 ___
-![screenshot](/Screenshots/mul2.jpeg)
+![screenshot](/Screenshots/Mul2.jpeg)
 ___
-![screenshot](/Screenshots/mul3.jpeg)
+![screenshot](/Screenshots/Mul3.jpeg)
 ___
 
