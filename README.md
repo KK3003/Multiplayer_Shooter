@@ -9,11 +9,10 @@ The functionalities used in this project include:
   * Play in the room
 ___
 # Screenshots
+![screenshot](/Screenshots/mul1.png)
 ___
-![screenshot](/Screenshots/mul1.jpeg)
+![screenshot](/Screenshots/Mul2.png)
 ___
-![screenshot](/Screenshots/Mul2.jpeg)
-___
-![screenshot](/Screenshots/Mul3.jpeg)
-___
+![screenshot](/Screenshots/Mul3.png)
+
 
